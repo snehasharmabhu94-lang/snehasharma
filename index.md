@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="assets/css/style.css">
 <img src="profile.jpg" alt="Sneha Sharma" width="250"/>
-# Namaste and Welcome
+# Namaste and Welcome...
 
 I’m Sneha Sharma!
 I spend most of my time chasing words, sometimes in a language classrooms, at times in old manuscripts, and often in the everyday chatter that makes a culture come alive. I’m a linguist, a language educator, and someone who can’t resist asking, “why this word and not that, why can't I master Spanish after talking to the owl and when did we stop using idioms?” 
