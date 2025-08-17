@@ -1,4 +1,5 @@
 ![Sneha Sharma](profile.jpg)
+<img src="profile.jpg" alt="Sneha Sharma" width="250"/>
 # 👋 Welcome!
 
 Hi, I'm **Sneha Sharma** – researcher, educator, and language enthusiast.  
