@@ -1,3 +1,4 @@
+![Sneha Sharma](profile.jpg)
 # 👋 Welcome!
 
 Hi, I'm **Sneha Sharma** – researcher, educator, and language enthusiast.  
