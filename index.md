@@ -15,7 +15,7 @@ When I’m not nerding out over language, you’ll find me with my nose buried i
 ---
 
 
-- M.A in Linguistics (BHU) – Gold Medalist  
-- Fulbright FLTA (Hindi) 2024-2025 – University of Michigan  
+- M.A in Linguistics (Gold Medalist)- Banaras Hindu University, Varanasi, INDIA  
+- Fulbright FLTA (Hindi) 2024-2025 – University of Michigan, Ann Arbor, USA 
 - GATE Humanities (XH Linguistics) AIR 11  
 - Diploma in Kathak
