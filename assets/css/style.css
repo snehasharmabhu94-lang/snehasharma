@@ -1,0 +1,14 @@
+/* Make content area wider */
+body {
+  max-width: 900px;   /* expand page width */
+  margin: auto;
+  font-family: "Lora", serif;  /* nicer font */
+  line-height: 1.6;
+}
+
+/* Center images like profile pic */
+img {
+  display: block;
+  margin: 1rem auto;
+  border-radius: 12px; /* optional: rounded corners */
+}
