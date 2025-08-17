@@ -1,6 +1,6 @@
 
 <img src="profile.jpg" alt="Sneha Sharma" width="250"/>
-# 👋 Welcome!
+# NAMASTE! HELLO
 
 Hi, I'm **Sneha Sharma** – linguist, educator, and culture enthusiast.  
 When I’m not exploring language pedagogy, acquisition, or other linguistics puzzles, you’ll probably find me dancing, reading, or doing something outdoorsy…  
