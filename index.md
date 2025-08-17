@@ -2,9 +2,10 @@
 <img src="profile.jpg" alt="Sneha Sharma" width="250"/>
 # NAMASTE! HELLO!
 
-Hi, I'm **Sneha Sharma** – linguist, educator, and culture enthusiast.  
-When I’m not exploring language pedagogy, acquisition, or other linguistics puzzles, you’ll probably find me dancing, reading, or doing something outdoorsy…  
-most likely just **reading and dancing outdoors**. 🌿💃📚
+Hi, I’m Sneha Sharma!
+I spend most of my time chasing words, sometimes in classrooms, sometimes in old texts, and often in the everyday chatter that makes a culture come alive. I’m a linguist, a teacher, and someone who can’t resist asking, “but why does this word work that way?”
+
+When I’m not nerding out over language, you’ll probably find me reading in the sun, trying out a new dance step, or wandering into a conversation about food, stories, or travel. For me, language isn’t just grammar and rules. It is rhythm, play, and a way of connecting with people wherever I go.
 
 
 > **न हि ज्ञानेन सदृशं पवित्रमिह विद्यते ।**  
