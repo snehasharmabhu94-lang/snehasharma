@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="assets/css/style.css">
 <img src="profile.jpg" alt="Sneha Sharma" width="250"/>
-# NAMASTE! HELLO!
+# Namaste and Welcome
 
 I’m Sneha Sharma!
 I spend most of my time chasing words, sometimes in classrooms, sometimes in old texts, and often in the everyday chatter that makes a culture come alive. I’m a linguist, a teacher, and someone who can’t resist asking, “but why does this word work that way?”
