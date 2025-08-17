@@ -1,4 +1,4 @@
-![Sneha Sharma](profile.jpg)
+
 <img src="profile.jpg" alt="Sneha Sharma" width="250"/>
 # 👋 Welcome!
 
