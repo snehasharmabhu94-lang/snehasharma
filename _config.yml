@@ -1,3 +1,19 @@
+title: "Sneha Sharma"
+description: "Academic Profile & Portfolio"
 theme: jekyll-theme-minimal
-title: Sneha Sharma
-description: Academic Profile & Portfolio
+
+# Navigation menu
+navigation:
+  - title: "Home"
+    url: index.md
+  - title: "About"
+    url: about.md
+  - title: "Podcast & Blog"
+    url: podcast-blog.md
+  - title: "Projects"
+    url: projects.md
+  - title: "CV"
+    url: cv.md
+  - title: "Contact"
+    url: contact.md
+
