@@ -1,12 +1,16 @@
-.page__content {
-  max-width: 1100px;  /* wider content */
+/* Make content area wider */
+body {
+  max-width: 900px;   /* expands page, less blank space */
   margin: auto;
-  font-size: 18px;
-  line-height: 1.7;
+  font-family: "Lora", serif;  /* better font */
+  line-height: 1.6;
+  font-size: 18px;    /* slightly larger text */
 }
 
-.page__content img {
+/* Center images (like profile pic) */
+img {
   display: block;
-  margin: 1.5rem auto;
-  border-radius: 12px;
+  margin: 1rem auto;
+  border-radius: 12px; /* soft rounded corners */
 }
+
