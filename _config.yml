@@ -4,6 +4,7 @@ remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-include-cache
 
+# Navigation bar
 nav:
   - title: "Home"
     url: /
@@ -19,12 +20,10 @@ nav:
     url: https://open.spotify.com/show/3qtyZpV7l2MT9S8bqvv0EO?si=0c507e40e1214ffd
   - title: "Blog"
     url: https://hindibhaashaa.wordpress.com/
-  - title: "HINDI HUB"
-    url: https://sites.google.com/view/hindihub/home
-author:
-  name: "Sneha Sharma"
-  avatar: "/assets/profile.jpg"
-  bio: "Linguist, educator & culture enthusiast"
+  - title: "Slides"
+    url: https://docs.google.com/presentation/d/xxxxxxx/edit?usp=sharing  # replace with your link
+
+
 
 
 
