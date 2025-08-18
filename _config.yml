@@ -1,19 +1,26 @@
 title: "Sneha Sharma"
 description: "Academic Profile & Portfolio"
-theme: jekyll-theme-minimal
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-include-cache
 
-# Navigation menu
-navigation:
+# Navigation bar
+nav:
   - title: "Home"
-    url: index.md
+    url: /
   - title: "About"
-    url: about.md
-  - title: "Podcast & Blog"
-    url: podcast-blog.md
+    url: /about/
   - title: "Projects"
-    url: projects.md
+    url: /projects/
   - title: "CV"
-    url: cv.md
+    url: /cv/
   - title: "Contact"
-    url: contact.md
+    url: /contact/
+  - title: "Spotify"
+    url: https://open.spotify.com/show/3qtyZpV7l2MT9S8bqvv0EO?si=0c507e40e1214ffd
+  - title: "WordPress Blog"
+    url: https://hindibhaashaa.wordpress.com/
+  - title: "Google Slides"
+    url: https://docs.google.com/presentation/d/xxxxxxx/edit?usp=sharing   # replace with your link
+
 
