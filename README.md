@@ -1,8 +1,7 @@
 # Sneha Sharma – Academic Profile
 
 Welcome to my academic GitHub profile!  
-This space is dedicated to my research, projects, and interests in Linguistics, English studies, and cross-cultural pedagogy.
-
+This space is dedicated to my research, projects, and interests in Language pedagogy, and Linguistics.
 ---
 
 ## 🔗 Quick Links
