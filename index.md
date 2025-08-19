@@ -3,7 +3,7 @@
   <a href="/" style="margin:0 15px; text-decoration:none; color:#0366d6;">Home</a>
   <a href="https://open.spotify.com/show/3qtyZpV7l2MT9S8bqvv0EO?si=0c507e40e1214ffd" style="margin:0 15px; text-decoration:none; color:#0366d6;">Podcast</a>
   <a href="https://hindibhaashaa.wordpress.com/" style="margin:0 15px; text-decoration:none; color:#0366d6;">Blog</a>
-  <a href="https://sites.google.com/view/hindihub/home" style="margin:0 15px; text-decoration:none; color:#0366d6;">Hindi HUB</a>
+  <a href="https://sites.google.com/view/hindihub/home" style="margin:0 15px; text-decoration:none; color:#0366d6;">Hindi Hub</a>
 </div>
 
 
