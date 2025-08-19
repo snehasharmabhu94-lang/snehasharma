@@ -5,9 +5,7 @@ main:
     url: https://open.spotify.com/show/3qtyZpV7l2MT9S8bqvv0EO?si=0c507e40e1214ffd
   - title: "Blog"
     url: https://hindibhaashaa.wordpress.com/
-  - title: "Hindi HUB"
+  - title: "Hindi Hub"
     url: https://sites.google.com/view/hindihub/home
-  - title: "CV"
-    url: /cv/
-  - title: "Contact"
-    url: /contact/
+
+
