@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="assets/css/style.css">
-<img src="profile.jpg" alt="Sneha Sharma" width="250"/>
 
 <div style="text-align:center; margin-bottom:25px; font-size:18px; font-family:Helvetica, Arial, sans-serif;">
   <a href="https://open.spotify.com/show/3qtyZpV7l2MT9S8bqvv0EO?si=0c507e40e1214ffd" style="margin:0 15px; text-decoration:none; color:#0366d6;">Podcast</a>
@@ -7,6 +5,10 @@
   <a href="https://sites.google.com/view/hindihub/home" style="margin:0 15px; text-decoration:none; color:#0366d6;">Hindi HUB</a>
   <a href="/contact" style="margin:0 15px; text-decoration:none; color:#0366d6;">Contact</a>
 </div>
+
+<link rel="stylesheet" href="assets/css/style.css">
+<img src="profile.jpg" alt="Sneha Sharma" width="250"/>
+
 
 # Namaste and Welcome...
 
