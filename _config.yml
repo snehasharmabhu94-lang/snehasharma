@@ -1,6 +1,7 @@
 title: Sneha Sharma
 description: Academic Profile & Portfolio
-remote_theme: pages-themes/chirpy
+remote_theme: mmistakes/minimal-mistakes
+
 
 navigation:
   - title: "Home"
