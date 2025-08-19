@@ -1,10 +1,10 @@
 <!-- Navbar -->
-<nav style="text-align:center; margin:20px 0; font-size:18px;">
+<div> style="text-align:center; margin:20px 0; font-size:18px;">
   <a href="/" style="margin:0 15px; text-decoration:none;">Home</a>
   <a href="https://open.spotify.com/show/3qtyZpV7l2MT9S8bqvv0EO?si=0c507e40e1214ffd" style="margin:0 15px; text-decoration:none;">Podcast</a>
   <a href="https://hindibhaashaa.wordpress.com/" style="margin:0 15px; text-decoration:none;">Blog</a>
   <a href="https://sites.google.com/view/hindihub/home" style="margin:0 15px; text-decoration:none;">Hindi Hub</a>
-</nav>
+</div>
 
 
 <link rel="stylesheet" href="assets/css/style.css">
