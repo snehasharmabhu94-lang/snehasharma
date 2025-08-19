@@ -1,3 +1,14 @@
-remote_theme: pages-themes/dinky@v0.2.0
 title: Sneha Sharma
 description: Academic Profile & Portfolio
+remote_theme: pages-themes/dinky@v0.2.0
+
+navigation:
+  - title: "Home"
+    url: /
+  - title: "Podcast"
+    url: https://open.spotify.com/show/3qtyZpV7l2MT9S8bqvv0EO?si=0c507e40e1214ffd
+  - title: "Blog"
+    url: https://hindibhaashaa.wordpress.com/
+  - title: "Hindi HUB"
+    url: https://sites.google.com/view/hindihub/home
+
