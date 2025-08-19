@@ -1,29 +1,3 @@
-title: "Sneha Sharma"
-description: "Academic Profile & Portfolio"
-remote_theme: "mmistakes/minimal-mistakes"
-plugins:
-  - jekyll-include-cache
-
-# Navigation bar
-nav:
-  - title: "Home"
-    url: /
-  - title: "Podcast"
-    url: https://open.spotify.com/show/3qtyZpV7l2MT9S8bqvv0EO?si=0c507e40e1214ffd
-  - title: "Blog"
-    url: https://hindibhaashaa.wordpress.com/
-  - title: "Hindi HUB"
-    url: https://sites.google.com/view/hindihub/home # replace with your link
-
-    sass:
-  style: compressed
-
-# Custom CSS
-custom_css:
-  - /assets/css/style.css
-
-
-
-
-
-
+theme: jekyll-theme-minimal
+title: Sneha Sharma
+description: Academic Profile & Portfolio
