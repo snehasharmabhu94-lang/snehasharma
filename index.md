@@ -1,9 +1,9 @@
 <!-- Navbar -->
-<div style="text-align:center; margin:20px 0; font-size:18px;" >
-  <a href="/" style="margin:0 15px; text-decoration:none;">Home</a>
-  <a href="https://open.spotify.com/show/3qtyZpV7l2MT9S8bqvv0EO?si=0c507e40e1214ffd" style="margin:0 15px; text-decoration:none;">Podcast</a>
-  <a href="https://hindibhaashaa.wordpress.com/" style="margin:0 15px; text-decoration:none;">Blog</a>
-  <a href="https://sites.google.com/view/hindihub/home" style="margin:0 15px; text-decoration:none;">Hindi Hub</a>
+<div style="text-align:center; margin:20px 0; padding:12px; background:#f4f4f4; border-radius:8px; font-size:18px; font-family:'Lora', serif;">
+  <a href="/" style="margin:0 15px; text-decoration:none; color:#0366d6;">Home</a>
+  <a href="https://open.spotify.com/show/3qtyZpV7l2MT9S8bqvv0EO?si=0c507e40e1214ffd" style="margin:0 15px; text-decoration:none; color:#0366d6;">Podcast</a>
+  <a href="https://hindibhaashaa.wordpress.com/" style="margin:0 15px; text-decoration:none; color:#0366d6;">Blog</a>
+  <a href="https://sites.google.com/view/hindihub/home" style="margin:0 15px; text-decoration:none; color:#0366d6;">Hindi Hub</a>
 </div>
 
 
