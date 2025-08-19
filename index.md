@@ -13,7 +13,6 @@
 <link rel="stylesheet" href="assets/css/style.css">
 <img src="profile.jpg" alt="Sneha Sharma" width="250"/>
 
-</div>
 
 # Namaste and Welcome...
 
