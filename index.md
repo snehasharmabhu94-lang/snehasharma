@@ -1,6 +1,5 @@
-<link rel="stylesheet" href="assets/css/style.css">
-<img src="profile.jpg" alt="Sneha Sharma" width="250"/>
-<div style="text-align:center; margin-bottom:25px; font-size:18px; font-family:Helvetica, Arial, sans-serif;">
+<!-- Navbar -->
+<div style="text-align:center; margin:20px 0; padding:10px; background:#f4f4f4; border-radius:8px; font-size:18px;">
   <a href="/" style="margin:0 15px; text-decoration:none; color:#0366d6;">Home</a>
   <a href="/about" style="margin:0 15px; text-decoration:none; color:#0366d6;">About</a>
   <a href="/cv" style="margin:0 15px; text-decoration:none; color:#0366d6;">CV</a>
@@ -8,6 +7,11 @@
   <a href="https://hindibhaashaa.wordpress.com/" style="margin:0 15px; text-decoration:none; color:#0366d6;">Blog</a>
   <a href="https://sites.google.com/view/hindihub/home" style="margin:0 15px; text-decoration:none; color:#0366d6;">Hindi HUB</a>
   <a href="/contact" style="margin:0 15px; text-decoration:none; color:#0366d6;">Contact</a>
+</div>
+
+<link rel="stylesheet" href="assets/css/style.css">
+<img src="profile.jpg" alt="Sneha Sharma" width="250"/>
+
 </div>
 
 # Namaste and Welcome...
